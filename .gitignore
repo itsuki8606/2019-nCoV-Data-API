@@ -1,0 +1,11 @@
+db.sqlite3
+credentials.json
+token.pickle
+*.log
+*.xlsx
+.vscode
+2019-nCoV/README.md
+2019-nCoV/daily_case_updates/
+2019-nCoV/time_series/
+2019-nCoV/.gitignore
+2019-nCoV/.git/
