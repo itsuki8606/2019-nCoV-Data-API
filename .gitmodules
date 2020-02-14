@@ -1,0 +1,3 @@
+[submodule "2019-nCoV"]
+	path = 2019-nCoV
+	url = https://github.com/CSSEGISandData/2019-nCoV.git
